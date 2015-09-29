@@ -30,7 +30,7 @@
 27 var config = { 
 28       "USER"     : "",                  // if your database has user/pwd defined 
 29       "PASS"     : "", 
-30       "HOST"     : "ec2-54-252-31-96.ap-southeast-2.compute.amazonaws.com",  // the domain name of our MongoDB EC2 instance 
+30       "HOST"     : "ec2-52-27-141-36.us-west-2.compute.amazonaws.com"  // the domain name of our MongoDB EC2 instance 
 31       "PORT"     : "27017",             // this is the default port mongoDB is listening for incoming queries 
 32       "DATABASE" : "my_example"         // the name of your database on that instance 
 33     }; 
